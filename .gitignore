@@ -1,7 +1,8 @@
-/target/
-.classpath
-.project
-.settings/
+target/
+.idea/
+*.iml
 .vscode/
-*.class
-*.log
+.env
+config.properties
+*.mv.db
+*.trace.db
